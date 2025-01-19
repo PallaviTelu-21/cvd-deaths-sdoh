@@ -20,7 +20,7 @@ XGBoost
 FastAI Tabular
 Explainability: Used SHAP to understand feature importance, identifying key predictors such as education levels, income, and racial disparities.
 
-/CVDdata_finalprocesseddf.csv: Contains processed datasets 
-/model_and_stats.ipynb : Python scripts for data preprocessing, modeling, and visualization.
-README.md: Project documentation.
+- /CVDdata_finalprocesseddf.csv: Contains processed datasets 
+- /model_and_stats.ipynb : Python scripts for data preprocessing, modeling, and visualization.
+- README.md: Project documentation.
 

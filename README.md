@@ -23,4 +23,5 @@ Explainability: Used SHAP to understand feature importance, identifying key pred
 - /CVDdata_finalprocesseddf.csv: Contains processed datasets 
 - /model_and_stats.ipynb : Python scripts for data preprocessing, modeling, and visualization.
 - README.md: Project documentation.
+- Data - the data of the total death can be requested from the indiana state department.
 

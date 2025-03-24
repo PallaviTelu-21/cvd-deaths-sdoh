@@ -1,4 +1,5 @@
-# cvd-deaths-sdoh
+# Socioeconomic Analysis of Cardiovascular Mortality in Indiana 
+
 
 Project Overview
 
